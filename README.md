@@ -8,4 +8,4 @@ Cognitive aging is characterized by the gradual decline of a number of abilities
 
 Please cite the following paper if you find this script useful:
 
-Fernández-Rubio, G., Olsen, E. R., Klarlund, M., Mallon, O., Carlomagno, F., Vuust, P., Kringelbach, M. L., Brattico, E., & Bonetti, L. (*accepted*). Investigating the impact of age on auditory short-term, long-term, and working memory. *Psychology of Music*.
+Fernández-Rubio, G., Olsen, E. R., Klarlund, M., Mallon, O., Carlomagno, F., Vuust, P., Kringelbach, M. L., Brattico, E., & Bonetti, L. (2023). Investigating the impact of age on auditory short-term, long-term, and working memory. _Psychology of Music, 0_(0). https://doi.org/10.1177/03057356231183404
