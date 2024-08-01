@@ -10,9 +10,9 @@
 library(readxl) #for reading excel files
 
 #set the directory
-setwd("/Users/au685269/Library/CloudStorage/OneDrive-AarhusUniversitet/Publications/3_PsychMusic_Young_Older_Memory/Data")
+setwd("/working_directory")
 
-data <- read_excel("tsa_behavioral.xlsx")
+data <- read_excel("data.xlsx")
 data <- data.frame(subject_id = data$subject_id, group = data$group, wm = data$wm, melody = data$melody, rhythm = data$rhythm,
                    old = data$old, new = data$new, music_training = data$music_training) 
 
